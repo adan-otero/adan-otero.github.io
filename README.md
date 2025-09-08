@@ -22,6 +22,8 @@ Actualmente, gestiono plataformas y aplicaciones empresariales, combinando mis c
   - Visual Basic 6.0, Power Builder, XML
   - Bases de datos: SQL Server (2000/2005/2008), DB2, MySQL
   - Nociones de Android Studio y Python
+  - Conocimientos y experiencia en importación de productos informáticos.
+  - Nociones y conocimientos básicos de finanzas, VAN, TIR, Simulación de cuotas para prestamo.
 
 ## 🧑‍💼 Proyectos
 
