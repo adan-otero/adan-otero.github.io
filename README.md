@@ -1,7 +1,7 @@
 # 👋 Hola, soy Adan Otero
 
 ¡Bienvenido a mi perfil de GitHub!  
-Soy un ciudadano Chalaco de 40 años, apasionado por el aprendizaje continuo y la tecnología. Tengo dos profesiones: **Licenciado en Administración** y **Técnico en Computación e Informática**.
+Soy un ciudadano Chalaco de 40 años, apasionado por el aprendizaje continuo y la tecnología. Tengo dos profesiones: **Licenciado en Administración** y **Técnico en Computación e Informática**. Como dato adicional cuento con licencia de conducir categoria A1.
 
 ## 👨‍💻 Rol Profesional
 **Operador de Sistemas**  
