@@ -1,7 +1,7 @@
 # 👋 Hola, soy Adan Otero
 
 ¡Bienvenido a mi perfil de GitHub!  
-Soy un ciudadano Chalaco de 40 años, apasionado por el aprendizaje continuo y la tecnología. Tengo dos profesiones: **Licenciado en Administración** y **Técnico en Computación e Informática**. Como dato adicional cuento con licencia de conducir categoria A1.
+Soy un ciudadano Chalaco de 40 años, apasionado por el aprendizaje continuo y la tecnología. Tengo dos profesiones: **Licenciado en Administración** y **Técnico en Computación e Informática**. Como dato adicional cuento con licencia de conducir categoria A1. Cuento con experiencia en programación visual Power Builder con Base de datos SQL en un proyecto de 6 meses, 1 año generando precios de productos importados con documentación DUA, Handling, Seguro y otras documentaciones incluidas en la importación, 15 años como analista interlineal viendo reembolsos, rechazos, valoración de volados de diversas aerolineas, actualmente en el area de operaciones TI con mas de 2 años en el puesto revisando los trabajos en los diversos ambientes de trabajo(producción, testing y desarrollo) en IBM iseries, manejo de DML en DB/2, manejo de trabajo a gran volumen de información, manejo de robots de búsqueda entre otras aplicaciones que forman parte de la operatividad.
 
 ## 👨‍💻 Rol Profesional
 **Operador de Sistemas**  
@@ -23,7 +23,8 @@ Actualmente, gestiono plataformas y aplicaciones empresariales, combinando mis c
   - Bases de datos: SQL Server (2000/2005/2008), DB2, MySQL
   - Nociones de Android Studio y Python
   - Conocimientos y experiencia en importación de productos informáticos.
-  - Nociones y conocimientos básicos de finanzas, VAN, TIR, Simulación de cuotas para prestamo.
+  - Nociones y conocimientos básicos de finanzas, VAN, TIR y TCEA.
+  
 
 ## 🧑‍💼 Proyectos
 
